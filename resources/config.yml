@@ -1,0 +1,11 @@
+title: 'This title'
+author: 'Author'
+
+# {player} player name
+# {player_displayname} player display name
+# {line} new line
+pages:
+  1:
+    text: 'Edit config.yml'
+  2:
+    text: 'Rules server'

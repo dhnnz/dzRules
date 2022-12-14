@@ -1,0 +1,14 @@
+name: dzRules
+version: 1.0
+api: 4.0.0
+author: dhnnz
+main: dz\Loader
+website: github.com/dhnnz/dzRules
+
+commands:
+  rules:
+    description: "Rules Server"
+    permission: rules.cnd
+permissions:
+  rules.cmd:
+    default: true
